@@ -1,17 +1,17 @@
 {
   "users": [
     {
-      "id": "b7b0b2a2-41ce-4d44-9b82-435eeb6f3eff",
+      "id": "user-alice-001",
       "name": "Alice",
       "email": "alice@mail.com",
       "passwordHash": "REPLACE_WITH_ENV_HASH",
       "createdAt": "2026-03-05T04:15:22.640Z"
     }
-    
+
   ],
   "cards": [
     {
-      "id": "4d54bb71-dca8-451a-889f-1f426536288e",
+      "id": "card-alice-001",
       "userId": "b7b0b2a2-41ce-4d44-9b82-435eeb6f3eff",
       "last4": "1234",
       "limitCents": 500000,
