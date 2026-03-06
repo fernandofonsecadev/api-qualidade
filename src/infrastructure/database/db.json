@@ -6,14 +6,8 @@
       "email": "alice@mail.com",
       "passwordHash": "REPLACE_WITH_ENV_HASH",
       "createdAt": "2026-03-05T04:15:22.640Z"
-    },
-    {
-      "id": "cfe3e34c-33bc-4078-b98a-8db68d5dc152",
-      "name": "Augusto",
-      "email": "augusto@mail.com",
-      "passwordHash": "$2b$10$99XB2Wgzedu9NqB4hNdhC.Bn/k.5Bem.odUhP61WM7CEwX.9fpHZe",
-      "createdAt": "2026-03-06T12:25:16.109Z"
     }
+    
   ],
   "cards": [
     {
